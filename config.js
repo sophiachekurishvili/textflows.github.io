@@ -1,6 +1,6 @@
-// Buraya Supabase'den kopyaladigin iki degeri yaz (tirnaklarin arasina).
-// SADECE "publishable" anahtar! "secret" anahtari ASLA buraya yazma.
+// Supabase baglantisi. Bu iki deger gizli degildir.
+// "secret" anahtari ASLA buraya yazma.
 window.TF = {
-  url: "https://PROJE-KODU.supabase.co",
-  key: "sb_publishable_BURAYA"
+  url: "https://upeipercafreamrqonhw.supabase.co",
+  key: "sb_publishable_LKasRcH6fRuZP7oAIxWeDw_Zuea4bi7"
 };
